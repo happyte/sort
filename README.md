@@ -11,6 +11,7 @@
 ![插入排序](https://github.com/happyte/sort/blob/master/3.gif)
 
 ### 快速排序
+![快速排序](https://github.com/happyte/sort/blob/master/4.gif)
 
 ### 堆排序
 ![堆排序](https://github.com/happyte/sort/blob/master/5.gif)
