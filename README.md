@@ -1,5 +1,5 @@
 
-## objective-c 图像化演示5中常见排序算法
+## objective-c 图像化演示5种常见排序算法
 
 ### 选择排序
 ![选择排序](https://github.com/happyte/sort/blob/master/1.gif)
